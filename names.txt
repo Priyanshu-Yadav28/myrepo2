@@ -1,4 +1,0 @@
-Hello this is the first text file of this Project just 
-to check different commands in terminal
-Kunal kushwaha
-Rahul Rana
